@@ -4,7 +4,7 @@
 🔭 I’m currently working on data analytics and insight synthesis projects<br>👯 I’m looking to collaborate on projects centred around BigData, AI and IoT <br>🌱 I’m currently learning Data Visualization and Storytelling, Data Pipelining<br>⚡ Fun fact: I am an avid creative and enjoy making art in my spare time!
 
 
-## 🌐 Socials:
+## 🌐 Engage with My Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathan-wanyoike-7051b41a3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonathankamauwanyoike@gmail.com) 
 
 
