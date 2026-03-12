@@ -1,4 +1,4 @@
-WELCOME TO MY PORTFOLIO!
+# WELCOME TO MY PORTFOLIO!
 
 # 💫 A Little bit About Me:
 🔭 I’m currently working on data analytics and insight synthesis projects<br>👯 I’m looking to collaborate on projects centred around BigData, AI and IoT <br>🌱 I’m currently learning Data Visualization and Storytelling, Data Pipelining<br>⚡ Fun fact: I am an avid creative and enjoy making art in my spare time!
