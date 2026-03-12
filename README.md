@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on data analytics and insight synthesis<br>👯 I’m looking to collaborate on data, AI and IoT projects<br>🌱 I’m currently learning SQL & Data Visualization<br>⚡ Fun fact: I love art in all its forms!
+🔭 I’m currently working on data analytics and insight synthesis projects<br>👯 I’m looking to collaborate on data, AI and IoT projects<br>🌱 I’m currently learning Data Visualization and Storytelling<br>⚡ Fun fact: I am an avid creative and enjoy making art in my spare time!
 
 
 ## 🌐 Socials:
